@@ -5,12 +5,12 @@ Abonnez-vous et likez nos vidéos pour plus d'impact
 
 
 # Windows Server 
-
 Windows server administratration avancées :
 https://www.udemy.com/course/apprendre-a-installer-et-administrer-un-serveur-windows/?couponCode=F25EBDDDA0EBC4BC8ADD
 
 Windows server 2019 Maitriser les nouveauté comme Windows AdminCenter et la Sauevgarde :
 https://www.udemy.com/course/administrer-windows-server-2019/?couponCode=D160ADE6507CFEEFA743
+
 
 # Apprenez à gérer des parcs informatiques:
 GLPI : 
@@ -25,13 +25,20 @@ https://www.udemy.com/course/aws-terraform/?couponCode=E121AB19DE0DECFD060E
 # Maîtrisé la supervision comme un Pro avec ZABBIX, CACTI, GRAFANA, PROMEHTEUS OU CENTREON
 Zabbix 6 :
 https://www.udemy.com/course/zabbix-6-2023/?couponCode=2BE680675250F862AD34
+
 Grafana :
 https://www.udemy.com/course/grafana-pour-les-sysadmins-et-devops-2022/?couponCode=264E3C63C9E5A039CE94
+
 Prometheus
 https://www.udemy.com/course/prometheus-p/?couponCode=EE1C9C4C7F0C0C09B179
 
 Zabbix 5: Les bases indispensables pour suivre la formation zabbix 6
-Zabbix 5:
+https://www.udemy.com/course/superviser-un-systeme-dinformation-avec-centreon/?couponCode=7B2410C17BB1A4D60B69
+
+cacti:
+https://www.udemy.com/course/supervision-dun-systeme-dinformation-avec-cacti/?couponCode=80B7AAD3C44788916714
+
+Centreon
 https://www.udemy.com/course/superviser-un-systeme-dinformation-avec-centreon/?couponCode=7B2410C17BB1A4D60B69
 #
 
@@ -46,9 +53,10 @@ Ubuntu
 https://www.udemy.com/course/linux-ubuntu-lessentiel-pour-les-sysadmin-valable-2022/?couponCode=214195CDFC02E2CAB3D8
 
 
-Sauvegarder vos données :
+# Sauvegarder vos données :
 Veeam Backup:
 https://www.udemy.com/course/veeam-backup-and-replication-2022/?couponCode=6C71321D0D8C3A411EB6
+
 
 # Sécuriser une infrastructure:
 Fortigate:
@@ -62,7 +70,6 @@ https://www.udemy.com/course/securiser-un-reseau-avec-opnsense-2023/?couponCode=
 
 Pfsense:
 https://www.udemy.com/course/pfsense-lessentiel/?couponCode=27B6357185FAA004D57C
-
 #
 
 # Automatiser l'administration des systèmes Windows et le réseau:
@@ -78,27 +85,21 @@ https://www.udemy.com/course/apprendre-a-administrer-un-routeur-mikrotik/?coupon
 # Apprener à déployer et administrer des solutions de téléphonie IP:
 xivo:
 https://www.udemy.com/course/apprendre-a-administrer-un-routeur-mikrotik/?couponCode=D0AAAC32CED1C099CB5D
-# 
 
-# 3cx:
+3cx:
 https://www.udemy.com/course/3cx-apprendre-l-essentiel/?couponCode=757A5901CC7A52C425E4
 
 
 # Simulation réseau pour préparer vos CCNA et CCIE ou pour vos laboratoires
-
 #EVE NG & GNS3
 https://www.udemy.com/course/gns3-lessentiel/?couponCode=BC772CD24C6842CA156A
 
+# messagerie d'entreprise
+Administrer Microsoft 365
+https://www.udemy.com/course/microsoft365-office365/?couponCode=E32939591AEAA69BA6C3
 
-windows server
-https://www.udemy.com/course/apprendre-a-installer-et-administrer-un-serveur-windows/?couponCode=F25EBDDDA0EBC4BC8ADD
+#
 
-
-gns3:
-https://www.udemy.com/course/gns3-lessentiel/?couponCode=BC772CD24C6842CA156A
-
-cacti:
-https://www.udemy.com/course/supervision-dun-systeme-dinformation-avec-cacti/?couponCode=80B7AAD3C44788916714
 
 
 # Prenez la main sur la console d'administration de microsoft 365
